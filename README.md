@@ -12,7 +12,6 @@ Performing analysis on Kickstarter data to uncover trends
 ### Analysis of Outcomes Based on Launch Date
 The launched date and deadline time was converted from Unix Timestamp to a readable human date using Epoch Converter - Unix Timestamp Converter. To split the text in the Category & Subcategory into parent and subcategory using How to Split Text in Cells with Flash Fill in Excel - Excel Campus.
 The theater outcomes based on launched dates, there were 1,369 campaigns events,839 (61,3%) were successful, 493(36%) failed and 37 (2.7%) canceled. 33.4% of the campaign events took place in summer between May and July. No event was cancelled in October. Most of the cancelation happened in January.
-![Theater_Outcomes_vs_Launch.png](path/to/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 The step to build the required deliverable was to use countifs formula COUNTIFS function (microsoft.com) and SUM formula.
